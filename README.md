@@ -6,6 +6,8 @@ This repository contains my project submission for the Visual Perception class, 
 - **Part II:** Training the network with provided healthy and patient datasets.
 - **Part III:** Testing the network with a new set of data for identification.
 
+![Example_image_SOM](https://github.com/GraceSevillano/Visual-Perception-Class-Project/blob/master/image_output.png)
+
 ## Contents
 
 - `Sevillano_Colina_Kimberly_Grace.ipynb`: Jupyter Notebook with detailed solutions for all three parts.
